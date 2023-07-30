@@ -8,6 +8,7 @@ public class Test {
             }else{
                 System.out.println("add number"+i);
             }
+            System.out.println("completed code");
 
         }
     }
